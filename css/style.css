@@ -1,0 +1,58 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: lavender;
+}
+header{
+    color: rgb(19, 121, 19);
+    background-color: rgb(247, 194, 129);
+    height: 100px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+nav{
+    color: whitesmoke;
+    background-color: cadetblue;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    height: 80px;
+}
+div{
+    display: flex;
+}
+.one{
+    color: rgb(97, 93, 93);
+    background-color: wheat;
+    width: 33%;
+    height: 650px;
+    font-size: 50px;
+    text-align: center;
+}
+.two{
+    color: whitesmoke;
+    background-color: rgb(83, 76, 76);
+    width: 34%;
+    height: 650px;
+    font-size: 50px;
+    text-align: center;
+}
+.three{
+    color: black;
+    background-color: #e6b1a6;
+    width: 33%;
+    height: 650px;
+    font-size: 50px;
+    text-align: center;
+}
+footer{
+    color: wheat;
+    background-color: rgb(190, 78, 78);
+    height: 85px;
+    text-align: center;
+    font-size: 30px;
+}
